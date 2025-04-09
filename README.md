@@ -1,4 +1,5 @@
 **Hello!**
+
 I'm a geoscience researcher. My current research focuses on exploring various geological processes to understand how they shape the Earth's surface and subsurface, and how they impact the quality and availability of natural resources.
 
 **Research Interests**:
@@ -11,8 +12,6 @@ I'm a geoscience researcher. My current research focuses on exploring various ge
 **Contact Information**:
 
 - 📧 **Email**: [abdullah@qubalee.com](mailto:abdullah@qubalee.com)
-- 🔗 **LinkedIn**: [Linkedin.com/in/qubalee](https://www.linkedin.com/in/qubalee/)
-- 📄 **ResearchGate**: [Researchgate.net/profile/Abdullah-Alqubalee](https://www.researchgate.net/profile/Abdullah-Alqubalee)
 - 🌐 **Website**: [qubalee.com](http://qubalee.com)
 
 **Let's Connect!**:
