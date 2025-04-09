@@ -1,16 +1,21 @@
-## Hi there 👋
+# About Me
 
-<!--
-**qubalee/qubalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a geoscience researcher. My current research focuses on exploring various geological processes to understand how they shape the Earth's surface and subsurface, and how they impact the quality and availability of natural resources.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⛏️ **Field-based geology and mineral exploration.**
+- 🌍 **Interdisciplinary approaches to critical mineral resources.**
+- 🏔️ **Sedimentary processes and their impacts on critical mineral distributions.**
+- ⛏️ **Characteristics of sediment-hosted minerals.**
+
+## Contact Information
+
+- 📧 **Email**: [abdullah@qubalee.com](mailto:abdullah@qubalee.com)
+- 🔗 **LinkedIn**: [Linkedin.com/in/qubalee](https://www.linkedin.com/in/qubalee/)
+- 📄 **ResearchGate**: [Researchgate.net/profile/Abdullah-Alqubalee](https://www.researchgate.net/profile/Abdullah-Alqubalee)
+- 🌐 **Website**: [qubalee.com](http://qubalee.com)
+
+## Let's Connect!
+
+Feel free to reach out if you're interested in collaboration, discussions, or sharing insights about geoscience!
