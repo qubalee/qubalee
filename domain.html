@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Domain For Sale</title>
+    <style>
+        body {
+            font-family: 'Verdana', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 100px auto;
+            text-align: center;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        p {
+            color: #555;
+            line-height: 1.6;
+        }
+        .highlight {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+        .contact-form {
+            margin-top: 20px;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        .thank-you {
+            display: none;
+            color: #28a745;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+    </style>
+    <script>
+        function showThankYou() {
+            document.querySelector('.contact-form').style.display = 'none';
+            document.querySelector('.thank-you').style.display = 'block';
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>GeoArabia.com</h1>
+        <p>This premium domain is available for sale!</p>
+        <p>Make your offer in USD below:</p>
+        <form class="contact-form" action="https://formsubmit.co/abdullah@qubalee.com" method="POST" onsubmit="showThankYou();">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <input type="text" name="offer" placeholder="Your Offer (in USD)" required>
+            <textarea name="message" placeholder="Additional Information" rows="4"></textarea>
+            <button type="submit">Submit Offer</button>
+        </form>
+        <div class="thank-you">
+            <p>Thank you for your submission! We look forward to connecting with you soon.</p>
+        </div>
+    </div>
+</body>
+</html>
