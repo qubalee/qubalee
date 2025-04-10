@@ -7,7 +7,7 @@ I'm a geoscience researcher. My current research focuses on exploring various ge
 - ⛏️ **Field-based geology and mineral exploration.**
 - 🌍 **Interdisciplinary approaches to critical mineral resources.**
 - 🏔️ **Sedimentary processes and their impacts on critical mineral distributions.**
-- ⛏️ **Characteristics of sediment-hosted minerals.**
+- 💎 **Characteristics of sediment-hosted minerals.**
 
 **Contact Information**:
 
