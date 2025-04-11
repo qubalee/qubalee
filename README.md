@@ -11,7 +11,7 @@ I'm a geoscience researcher. My current research focuses on exploring various ge
 
 ## **Contact Information**:
 
-- 📧 **Email**: [abdullah@qubalee.com](mailto:abdullah@qubalee.com)
+- 📧 **Email**: [abdullah@qubalee.com](mailto:abdullah@qubalee.com) or [Use this form](https://qubalee.com/about/#contact-me)
 - 🌐 **Website**: [qubalee.com](http://qubalee.com)
 
 ____
