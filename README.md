@@ -13,5 +13,6 @@ I'm a geoscience researcher. My current research focuses on exploring various ge
 
 - 📧 **Email**: [abdullah@qubalee.com](mailto:abdullah@qubalee.com)
 - 🌐 **Website**: [qubalee.com](http://qubalee.com)
+- 🙌 **Support**: [Open Geoscience](https://qubalee.com/Open-geoscience/) 
 
 >**Let's Connect!**: Feel free to reach out if you're interested in collaboration, discussions, or sharing insights about geoscience!
