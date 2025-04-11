@@ -15,10 +15,10 @@ I'm a geoscience researcher. My current research focuses on exploring various ge
 - 🌐 **Website**: [qubalee.com](http://qubalee.com)
 
 ____
-🙌 **Support [Open Geoscience](https://qubalee.com/Open-geoscience/) by sharing its link**: 
-- [Twitter](https://twitter.com/share?url=https://qubalee.com/Open-geoscience/) 
-- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://qubalee.com/Open-geoscience/) 
-- [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://qubalee.com/Open-geoscience/)
+🙌 **Support [Open Geoscience](https://qubalee.com/posts/2025/04/open-geoscience) by sharing its link**: 
+- [Twitter](https://twitter.com/share?url=https://qubalee.com/posts/2025/04/open-geoscience) 
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://qubalee.com/posts/2025/04/open-geoscience) 
+- [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://qubalee.com/posts/2025/04/open-geoscience)
 ```copy
 https://qubalee.com/Open-geoscience/
 ```
