@@ -20,5 +20,5 @@ ____
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://qubalee.com/posts/2025/04/open-geoscience) 
 - [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://qubalee.com/posts/2025/04/open-geoscience)
 ```copy
-https://qubalee.com/Open-geoscience/
+https://qubalee.com/posts/2025/04/open-geoscience
 ```
