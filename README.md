@@ -9,6 +9,11 @@ I'm a geoscience researcher. My current research focuses on exploring various ge
 - 🏔️ **Sedimentary processes and their impacts on critical mineral distributions.**
 - 💎 **Characteristics of sediment-hosted minerals.**
 
+____
+> 📝 **Check out [ALQUBALEE Notes](https://qubalee.com/)**, and > 🙌 **Support [Open Geosciences](https://qubalee.com/posts/2025/04/open-geosciences) by sharing its link via**:  [Twitter](https://twitter.com/share?url=https://qubalee.com/posts/2025/04/open-geosciences) - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://qubalee.com/posts/2025/04/open-geosciences) - [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://qubalee.com/posts/2025/04/open-geosciences) - or copy the link below:
+```copy
+https://qubalee.com/posts/2025/04/open-geosciences
+```
 ## **Contact Information**:
 
 - 📧 **Email**: [abdullah@qubalee.com](mailto:abdullah@qubalee.com) or [Use this form](https://qubalee.com/about/#contact-me)
@@ -16,12 +21,8 @@ I'm a geoscience researcher. My current research focuses on exploring various ge
 
 ____
 
-> 🙌 **Support [Open Geosciences](https://qubalee.com/posts/2025/04/open-geosciences) by sharing its link via**:  [Twitter](https://twitter.com/share?url=https://qubalee.com/posts/2025/04/open-geosciences) - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://qubalee.com/posts/2025/04/open-geosciences) - [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://qubalee.com/posts/2025/04/open-geosciences) - or copy the link below:
-```copy
-https://qubalee.com/posts/2025/04/open-geosciences
-```
-> 📝 **Check out [ALQUBALEE Notes](https://qubalee.com/)** - Geoscience research and educational notes
 
-# Blog posts
+
+# ALQUBALEE Notes
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
