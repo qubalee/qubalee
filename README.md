@@ -1,4 +1,5 @@
-![Static Badge](https://img.shields.io/badge/Hello%20and%20Welcome-000000?logo=github&link=https%3A%2F%2Fqubalee.com%2F)
+[![Hello and Welcome!](https://raw.githubusercontent.com/qubalee/qubalee/796f3fbbc4acf0cc05b0f408e8360f620e76deb8/images/hello.svg)](https://qubalee.github.io/qubalee)
+
 
 I'm a geoscience researcher. My current research focuses on exploring various geological processes to understand how they shape the Earth's surface and subsurface, and how they impact the quality and availability of natural resources.
 
