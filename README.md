@@ -10,7 +10,9 @@ I'm a geoscience researcher. My current research focuses on exploring various ge
 - 💎 **Characteristics of sediment-hosted minerals.**
 
 ## **Let's connect**:
-> 📝 **Check out [ALQUBALEE Notes](https://qubalee.com/)**, and 🙌 **Support [Open Geosciences](https://qubalee.com/posts/2025/04/open-geosciences) by sharing its link via**: [![X](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/x.png)](https://x.com/share?url=https://qubalee.com/posts/2025/04/open-geosciences) 
+> 📝 **Check out [ALQUBALEE Notes](https://qubalee.com/)**, and 🙌 **Support [Open Geosciences](https://qubalee.com/posts/2025/04/open-geosciences) by sharing its link via**:
+
+[![X](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/x.png)](https://x.com/share?url=https://qubalee.com/posts/2025/04/open-geosciences) 
 [![Facebook](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/fb.png)](https://www.facebook.com/sharer/sharer.php?u=https://qubalee.com/posts/2025/04/open-geosciences) 
 [![LinkedIn](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/in.png)](https://www.linkedin.com/sharing/share-offsite/?url=https://qubalee.com/posts/2025/04/open-geosciences)
 - or **copy and share** the direct link below:
@@ -20,3 +22,7 @@ https://qubalee.com/posts/2025/04/open-geosciences
 ____
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=qubalee.qubalee)](https://visitor-badge.laobi.icu/badge?page_id=qubalee.visitor-badge)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
