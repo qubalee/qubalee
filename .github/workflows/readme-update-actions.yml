@@ -14,5 +14,5 @@ jobs:
       - name: Fetch posts
         uses: armingli/readme-update-actions@v2
         with:
-          rss_list: "https://qubalee.com/rss.xml" # required
+          rss_list: "https://qubalee.com/feed.xml" # required
           max_post: 3  # optional, default 5 
