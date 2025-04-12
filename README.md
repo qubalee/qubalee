@@ -9,7 +9,7 @@ I'm a geoscience researcher. My current research focuses on exploring various ge
 - 🏔️ **Sedimentary processes and their impacts on critical mineral distributions.**
 - 💎 **Characteristics of sediment-hosted minerals.**
 
-## **Let's connect** [![visitors](https://visitor-badge.laobi.icu/badge?page_id=qubalee.qubalee)](https://visitor-badge.laobi.icu/badge?page_id=qubalee.visitor-badge)
+## **Let's connect** 
 
 > 📝 **Check out [ALQUBALEE Notes](https://qubalee.com/)**, and 🙌 **Support [Open Geosciences](https://qubalee.com/posts/2025/04/open-geosciences) by sharing its link via**:
 
@@ -25,3 +25,5 @@ ____
 ## 📕 Latest posts from ALQUBALEE Notes
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=qubalee.qubalee)](https://visitor-badge.laobi.icu/badge?page_id=qubalee.visitor-badge)
