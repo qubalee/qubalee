@@ -14,15 +14,9 @@ ____
 ```copy
 https://qubalee.com/posts/2025/04/open-geosciences
 ```
-## **Contact Information**:
-
-- 📧 **Email**: [abdullah@qubalee.com](mailto:abdullah@qubalee.com) or [Use this form](https://qubalee.com/about/#contact-me)
-- 🌐 **Website**: [qubalee.com](http://qubalee.com)
-
 ____
 
 
-
-# ALQUBALEE Notes
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
