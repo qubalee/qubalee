@@ -5,14 +5,14 @@ I'm a geoscience researcher. My current research focuses on exploring various ge
 
 ___
 
-![Static Badge](https://img.shields.io/badge/Current-Research_Interests-blue?link=http%3A%2F%2Fpure.kfupm.edu.sa%2Fen%2Fpersons%2Fabdullah-alqubalee)
+[![Current research](https://raw.githubusercontent.com/qubalee/qubalee/796f3fbbc4acf0cc05b0f408e8360f620e76deb8/images/research-interests.svg)](https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee)
 
 - ⛏️ **Field-based geology and mineral exploration.**
 - 🌍 **Interdisciplinary approaches to critical mineral resources.**
 - 🏔️ **Sedimentary processes and their impacts on critical mineral distributions.**
 - 💎 **Characteristics of sediment-hosted minerals.**
 ____
-![Static Badge](https://img.shields.io/badge/Latest%20updates-ALQUBALEE_Notes-black?labelColor=green&link=http%3A%2F%2Fqubalee.com)
+[![Latest updates](https://raw.githubusercontent.com/qubalee/qubalee/796f3fbbc4acf0cc05b0f408e8360f620e76deb8/images/ALQUBALEE-Notes.svg)](https://qubalee.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata](https://qubalee.github.io/posts/2025/04/quantifying-bioturbation/)
@@ -23,7 +23,7 @@ ____
 <!-- BLOG-POST-LIST:END -->
 
 
-> ![Static Badge](https://img.shields.io/badge/Support-Open_Geosciences_via-white?labelColor=blue&link=https%3A%2F%2Fqubalee.com%2Fposts%2F2025%2F04%2Fopen-geosciences%2F)
+> ![![Support](https://raw.githubusercontent.com/qubalee/qubalee/796f3fbbc4acf0cc05b0f408e8360f620e76deb8/images/support-geo.svg)](https://qubalee.com/posts/2025/04/open-geosciences)
 
 [![X](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/x.png)](https://x.com/share?url=https://qubalee.com/posts/2025/04/open-geosciences) 
 [![Facebook](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/fb.png)](https://www.facebook.com/sharer/sharer.php?u=https://qubalee.com/posts/2025/04/open-geosciences) 
