@@ -23,6 +23,11 @@ https://qubalee.com/posts/2025/04/open-geosciences
 ____
 
 <!-- BLOG-POST-LIST:START -->
+- [Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata](https://qubalee.github.io/posts/2025/04/quantifying-bioturbation/)
+- [Open Geosciences](https://qubalee.github.io/posts/2025/04/open-geosciences/)
+- [WIIP: An Approach for Leveraging Geological Data Heterogeneity through Customization of Open-Source Software](https://qubalee.github.io/posts/2025/04/wiip/)
+- [Bioturbation Impact on Reservoir and Aquifer Properties](https://qubalee.github.io/posts/2025/04/bioturbation/)
+- [Upper Ordovician Glaciogenic Deposits, Saudi Arabia](https://qubalee.github.io/posts/2025/04/UOGD/)
 <!-- BLOG-POST-LIST:END -->
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=qubalee.qubalee)](https://visitor-badge.laobi.icu/badge?page_id=qubalee.visitor-badge)
