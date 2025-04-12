@@ -12,7 +12,7 @@ ___
 - 🏔️ **Sedimentary processes and their impacts on critical mineral distributions.**
 - 💎 **Characteristics of sediment-hosted minerals.**
 ____
-[![Latest updates](https://raw.githubusercontent.com/qubalee/qubalee/796f3fbbc4acf0cc05b0f408e8360f620e76deb8/images/ALQUBALEE-Notes.svg)](https://qubalee.com)
+[![Latest updates](https://raw.githubusercontent.com/qubalee/qubalee/fd82cf53a28d71effd9630db5055f95f2e4815b3/images/ALQUBALEE-Notes.svg)](https://qubalee.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata](https://qubalee.github.io/posts/2025/04/quantifying-bioturbation/)
@@ -21,9 +21,8 @@ ____
 - [Bioturbation Impact on Reservoir and Aquifer Properties](https://qubalee.github.io/posts/2025/04/bioturbation/)
 - [Upper Ordovician Glaciogenic Deposits, Saudi Arabia](https://qubalee.github.io/posts/2025/04/UOGD/)
 <!-- BLOG-POST-LIST:END -->
-
-
-> ![![Support](https://raw.githubusercontent.com/qubalee/qubalee/796f3fbbc4acf0cc05b0f408e8360f620e76deb8/images/support-geo.svg)](https://qubalee.com/posts/2025/04/open-geosciences)
+___
+[![Support Geo](https://raw.githubusercontent.com/qubalee/qubalee/fd82cf53a28d71effd9630db5055f95f2e4815b3/images/support-geo.svg)](https://qubalee.com/posts/2025/04/open-geosciences)
 
 [![X](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/x.png)](https://x.com/share?url=https://qubalee.com/posts/2025/04/open-geosciences) 
 [![Facebook](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/fb.png)](https://www.facebook.com/sharer/sharer.php?u=https://qubalee.com/posts/2025/04/open-geosciences) 
