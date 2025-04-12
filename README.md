@@ -22,7 +22,6 @@ https://qubalee.com/posts/2025/04/open-geosciences
 ```
 ____
 
-## 📕 Latest posts from ALQUBALEE Notes
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
