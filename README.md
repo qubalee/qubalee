@@ -22,7 +22,7 @@ ____
 - [Upper Ordovician Glaciogenic Deposits, Saudi Arabia](https://qubalee.github.io/posts/2025/04/UOGD/)
 <!-- BLOG-POST-LIST:END -->
 ___
-[![Support Geo](https://raw.githubusercontent.com/qubalee/qubalee/fd82cf53a28d71effd9630db5055f95f2e4815b3/images/support-geo.svg)](https://qubalee.com/posts/2025/04/open-geosciences)
+[![Support Geo](https://raw.githubusercontent.com/qubalee/qubalee/9c32fec718e92e7430f542d5f74a9059ca3208a9/images/support-geo.svg)](https://qubalee.com/posts/2025/04/open-geosciences)
 
 [![X](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/x.png)](https://x.com/share?url=https://qubalee.com/posts/2025/04/open-geosciences) 
 [![Facebook](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/fb.png)](https://www.facebook.com/sharer/sharer.php?u=https://qubalee.com/posts/2025/04/open-geosciences) 
