@@ -12,7 +12,7 @@ ___
 - 🏔️ **Sedimentary processes and their impacts on critical mineral distributions.**
 - 💎 **Characteristics of sediment-hosted minerals.**
 ____
-[![Latest updates](https://raw.githubusercontent.com/qubalee/qubalee/fd82cf53a28d71effd9630db5055f95f2e4815b3/images/ALQUBALEE-Notes.svg)](https://qubalee.com)
+[![Latest updates](https://raw.githubusercontent.com/qubalee/qubalee/9c32fec718e92e7430f542d5f74a9059ca3208a9/images/ALQUBALEE-Notes.svg)](https://qubalee.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata](https://qubalee.github.io/posts/2025/04/quantifying-bioturbation/)
