@@ -12,7 +12,8 @@ ___
 - 🏔️ **Sedimentary processes and their impacts on critical mineral distributions.**
 - 💎 **Characteristics of sediment-hosted minerals.**
 ____
-[![Latest updates](https://raw.githubusercontent.com/qubalee/qubalee/9c32fec718e92e7430f542d5f74a9059ca3208a9/images/ALQUBALEE-Notes.svg)](https://qubalee.com)
+[![Latest updates](https://raw.githubusercontent.com/qubalee/qubalee/9c32fec718e92e7430f542d5f74a9059ca3208a9/images/ALQUBALEE-Notes.svg)](https://qubalee.com) [![Sponsor qubalee](https://raw.githubusercontent.com/qubalee/qubalee/2b952e9d30fed63703c69ec8454f772f1a91cb54/images/icons/sponsor.svg)](https://github.com/sponsors/qubalee)
+
 
 <!-- BLOG-POST-LIST:START -->
 - [A Portable Coring Machine: Key Tools for Geological Fieldwork](https://qubalee.github.io/posts/2025/04/Portable-Coring-Machine/)
@@ -21,6 +22,8 @@ ____
 - [Open Geosciences](https://qubalee.github.io/posts/2025/04/open-geosciences/)
 - [WIIP: An Approach for Leveraging Geological Data Heterogeneity through Customization of Open-Source Software](https://qubalee.github.io/posts/2025/04/wiip/)
 <!-- BLOG-POST-LIST:END -->
+
+
 ___
 [![Support Geo](https://raw.githubusercontent.com/qubalee/qubalee/9c32fec718e92e7430f542d5f74a9059ca3208a9/images/support-geo.svg)](https://qubalee.com/posts/2025/04/open-geosciences)
 
@@ -33,5 +36,3 @@ https://qubalee.com/posts/2025/04/open-geosciences
 ```
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=qubalee.qubalee)](https://visitor-badge.laobi.icu/badge?page_id=qubalee.visitor-badge) 
 
-
-<iframe src="https://github.com/sponsors/qubalee/card" title="Sponsor qubalee" height="225" width="600" style="border: 0;"></iframe>
