@@ -31,4 +31,7 @@ ___
 ```copy
 https://qubalee.com/posts/2025/04/open-geosciences
 ```
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=qubalee.qubalee)](https://visitor-badge.laobi.icu/badge?page_id=qubalee.visitor-badge)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=qubalee.qubalee)](https://visitor-badge.laobi.icu/badge?page_id=qubalee.visitor-badge) 
+
+
+<iframe src="https://github.com/sponsors/qubalee/card" title="Sponsor qubalee" height="225" width="600" style="border: 0;"></iframe>
