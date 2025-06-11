@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://qubalee.com/feed.xml,https://www.youtube.com/feeds/videos.xml?channel_id=UCrD2nwt4TWJSGQ8dBZCpAWQ"
-          max_post_count: 15
+          max_post_count: 30
