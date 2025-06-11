@@ -1,19 +1,32 @@
-name: Latest blog post workflow
+name: Latest content workflow
 on:
-  schedule: # Run workflow automatically
+  schedule:
     - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  workflow_dispatch:
+
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-content:
+    name: Update README with latest blog posts and podcast episodes
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+        
+      - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://qubalee.com/feed.xml"
+          max_posts: 10 # Fetch the latest 10 blog posts
+
+      - name: Pull in podcast episodes
+        uses: gautamkrishnar/blog-post-workflow@v1 # Use a similar action for podcasts
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrD2nwt4TWJSGQ8dBZCpAWQ"
+          max_posts: 10 # Fetch the latest 10 podcast episodes
+
+      - name: Update README
+        run: |
+          # Custom script to format and update the README with both blog and podcast content
