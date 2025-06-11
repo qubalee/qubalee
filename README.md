@@ -31,6 +31,9 @@ ____
 - [1.1 Introducing ALQUBALEE Notes | via #google  #notebooklm](https://www.youtube.com/watch?v=BLPSXiyn2ww)
 - [Management of Geological Data: Local and Cloud-Based](https://qubalee.github.io/posts/2025/05/data-repository-platforms/)
 - [A Portable Coring Machine: Key Tools for Geological Fieldwork](https://qubalee.github.io/posts/2025/04/Portable-Coring-Machine/)
+- [Optimizing Research Efficiency with PDF Reader and Journal Ranking Tool Extensions](https://qubalee.github.io/posts/2025/04/Google-PDF-Readerand-ExCITATION/)
+- [Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata](https://qubalee.github.io/posts/2025/04/quantifying-bioturbation/)
+- [Open Geosciences](https://qubalee.github.io/posts/2025/04/open-geosciences/)
 <!-- BLOG-POST-LIST:END -->
 
 
