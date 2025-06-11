@@ -16,11 +16,21 @@ ____
 
 
 <!-- BLOG-POST-LIST:START -->
-- [1.17 Virtual Field Experiences in Geoscience Education](https://www.youtube.com/watch?v=Okm8CJ_CEwQ)
-- [1.18 Automated Mineralogy  2D &amp; 3D Futures](https://www.youtube.com/watch?v=MC3JRLz-h7U)
+- [1.18 Virtual Field Experiences in Geoscience Education](https://www.youtube.com/watch?v=Okm8CJ_CEwQ)
+- [1.17 Automated Mineralogy  2D &amp; 3D Futures](https://www.youtube.com/watch?v=MC3JRLz-h7U)
 - [1.16 Research Integrity Risk Index](https://www.youtube.com/watch?v=xvOaebKy01E)
 - [1.13 Responsible AI | via #Google #Notebooklm.](https://www.youtube.com/watch?v=ub6UJhcsV64)
 - [1.12 Open Geosciences | via #Google #Notebooklm.](https://www.youtube.com/watch?v=vECcBEHjd-Q)
+- [الحلقة الثانية: ترسبات حديدة جلدية قديمة في شبه الجزيرة العربية](https://www.youtube.com/watch?v=nSoIDyKNvcs)
+- [الحلقة الأولى: مقدمة عن مدونات القبالي](https://www.youtube.com/watch?v=H0JqsbMUR1o)
+- [1.9 Unconventional Shale: Insights from Geochemistry, Maturity, and Reservoir Quality | #notebooklm](https://www.youtube.com/watch?v=bu8dNJy37i4)
+- [1.8 Management of Geological Data: Local and Cloud-Based | via #google  #notebooklm](https://www.youtube.com/watch?v=zOAFw0pYxCs)
+- [1.7 Bioturbation Impact on Reservoir and Aquifer Properties | via #google  #notebooklm](https://www.youtube.com/watch?v=37oclvMbGt0)
+- [1.6 Upper Ordovician Glaciogenic Deposits, Saudi Arabia | via #google  #notebooklm](https://www.youtube.com/watch?v=caBEFVqNGJQ)
+- [1.2 Ferruginous glacial deposits of Arabia | via #google  #notebooklm](https://www.youtube.com/watch?v=_G0gYCiXcdw)
+- [1.1 Introducing ALQUBALEE Notes | via #google  #notebooklm](https://www.youtube.com/watch?v=BLPSXiyn2ww)
+- [Management of Geological Data: Local and Cloud-Based](https://qubalee.github.io/posts/2025/05/data-repository-platforms/)
+- [A Portable Coring Machine: Key Tools for Geological Fieldwork](https://qubalee.github.io/posts/2025/04/Portable-Coring-Machine/)
 <!-- BLOG-POST-LIST:END -->
 
 
