@@ -16,11 +16,11 @@ ____
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Management of Geological Data: Local and Cloud-Based](https://qubalee.github.io/posts/2025/05/data-repository-platforms/)
-- [A Portable Coring Machine: Key Tools for Geological Fieldwork](https://qubalee.github.io/posts/2025/04/Portable-Coring-Machine/)
-- [Optimizing Research Efficiency with PDF Reader and Journal Ranking Tool Extensions](https://qubalee.github.io/posts/2025/04/Google-PDF-Readerand-ExCITATION/)
-- [Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata](https://qubalee.github.io/posts/2025/04/quantifying-bioturbation/)
-- [Open Geosciences](https://qubalee.github.io/posts/2025/04/open-geosciences/)
+- [1.17 Virtual Field Experiences in Geoscience Education](https://www.youtube.com/watch?v=Okm8CJ_CEwQ)
+- [1.18 Automated Mineralogy  2D &amp; 3D Futures](https://www.youtube.com/watch?v=MC3JRLz-h7U)
+- [1.16 Research Integrity Risk Index](https://www.youtube.com/watch?v=xvOaebKy01E)
+- [1.13 Responsible AI | via #Google #Notebooklm.](https://www.youtube.com/watch?v=ub6UJhcsV64)
+- [1.12 Open Geosciences | via #Google #Notebooklm.](https://www.youtube.com/watch?v=vECcBEHjd-Q)
 <!-- BLOG-POST-LIST:END -->
 
 
