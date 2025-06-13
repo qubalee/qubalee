@@ -16,6 +16,7 @@ ____
 
 
 <!-- BLOG-POST-LIST:START -->
+- [1.19 Reproducible Research in Geosciences | via #Google #Notebooklm.](https://www.youtube.com/watch?v=zDrqgmbbT5U)
 - [1.18 Virtual Field Experiences in Geoscience Education | via #Google #Notebooklm.](https://www.youtube.com/watch?v=Okm8CJ_CEwQ)
 - [1.17 Automated Mineralogy  2D &amp; 3D Futures | via #Google #Notebooklm.](https://www.youtube.com/watch?v=MC3JRLz-h7U)
 - [1.16 Research Integrity Risk Index  | via #Google #Notebooklm.](https://www.youtube.com/watch?v=xvOaebKy01E)
