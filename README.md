@@ -16,9 +16,9 @@ ____
 
 
 <!-- BLOG-POST-LIST:START -->
-- [1.18 Virtual Field Experiences in Geoscience Education](https://www.youtube.com/watch?v=Okm8CJ_CEwQ)
-- [1.17 Automated Mineralogy  2D &amp; 3D Futures](https://www.youtube.com/watch?v=MC3JRLz-h7U)
-- [1.16 Research Integrity Risk Index](https://www.youtube.com/watch?v=xvOaebKy01E)
+- [1.18 Virtual Field Experiences in Geoscience Education | via #Google #Notebooklm.](https://www.youtube.com/watch?v=Okm8CJ_CEwQ)
+- [1.17 Automated Mineralogy  2D &amp; 3D Futures | via #Google #Notebooklm.](https://www.youtube.com/watch?v=MC3JRLz-h7U)
+- [1.16 Research Integrity Risk Index  | via #Google #Notebooklm.](https://www.youtube.com/watch?v=xvOaebKy01E)
 - [1.13 Responsible AI | via #Google #Notebooklm.](https://www.youtube.com/watch?v=ub6UJhcsV64)
 - [1.12 Open Geosciences | via #Google #Notebooklm.](https://www.youtube.com/watch?v=vECcBEHjd-Q)
 - [الحلقة الثانية: ترسبات حديدة جلدية قديمة في شبه الجزيرة العربية](https://www.youtube.com/watch?v=nSoIDyKNvcs)
