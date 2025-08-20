@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MEGTS – Middle East Geologic Time Scale | Coming Soon</title>
+    <meta name="description" content="MEGTS (Middle East Geologic Time Scale) – a regionally tuned geologic timescale and correlation hub. Launching soon at megtscale.com." />
+
+    <style>
+      body {
+        margin: 0;
+        background: linear-gradient(135deg, #0f172a, #064e3b);
+        color: #e5e7eb;
+        font-family: system-ui, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+      .card {
+        max-width: 960px;
+        background: rgba(17, 24, 39, 0.85);
+        border-radius: 20px;
+        padding: 32px;
+        box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4);
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 32px;
+      }
+      @media(max-width: 800px){
+        .card { grid-template-columns: 1fr; }
+      }
+      .content { text-align: left; }
+      h1 { font-size: 2.5rem; margin: 0.5em 0; }
+      .subtitle { text-transform: uppercase; font-size: 0.8rem; color: #a7f3d0; letter-spacing: 0.08em; }
+      .lead { font-size: 1rem; color: #d1fae5; margin-bottom: 1.5em; }
+      .pillrow { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 2em; }
+      .pill { font-size: 0.85rem; padding: 6px 12px; border: 1px dashed rgba(255, 255, 255, 0.2); border-radius: 999px; color: #bbf7d0; }
+      form { display: flex; gap: 8px; margin-top: 1em; }
+      input[type="email"] { padding: 12px; border-radius: 10px; border: 1px solid rgba(255, 255, 255, 0.2); background: #0b1220; color: #e5e7eb; flex: 1; }
+      button { padding: 12px 18px; border-radius: 10px; border: none; background: linear-gradient(180deg, #10b981, #059669); color: white; font-weight: bold; cursor: pointer; }
+      .muted { font-size: 0.85rem; color: #9ca3af; margin-top: 8px; }
+      .alert { margin-top: 10px; padding: 12px 14px; border-radius: 10px; border: 1px solid rgba(16,185,129,.35); background: rgba(16,185,129,.12); color: #d1fae5; font-weight: 600; display:none; }
+      .alert.error{ border-color: rgba(239,68,68,.35); background: rgba(239,68,68,.12); color: #fecaca; }
+      footer { margin-top: 2em; font-size: 0.85rem; color: #9ca3af; }
+      .image-container { display: flex; align-items: center; justify-content: center; }
+      .image-container img { max-width: 100%; border-radius: 12px; border: 1px solid rgba(255,255,255,0.2); box-shadow: 0 6px 18px rgba(0,0,0,0.3); }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <div class="content">
+        <div class="subtitle">Middle East Geologic Time Scale</div>
+        <h1>Coming soon.</h1>
+        <p class="lead">A regionally tuned geologic timescale and correlation hub for the Middle East — unifying stratigraphic nomenclature, formations, and cross-border correlations.</p>
+
+        <div class="pillrow">
+          <span class="pill">Regionalized Periods & Epochs</span>
+          <span class="pill">Formation Catalog</span>
+          <span class="pill">Cross-Country Correlations</span>
+          <span class="pill">Interactive Charts & API</span>
+        </div>
+
+        <div>
+          <strong>Get notified at launch</strong>
+          <form id="notifyForm">
+            <input type="email" id="email" name="email" placeholder="you@company.com" required />
+            <button type="submit">Notify me</button>
+          </form>
+          <div class="muted">No spam. Just a single launch email.</div>
+          <div id="msg" class="alert" role="status" aria-live="polite"></div>
+        </div>
+
+        <footer>
+          <div>📌 Under active development</div>
+          <div>contact@megtscale.com</div>
+        </footer>
+      </div>
+      <div class="image-container">
+        <img src="https://github.com/qubalee/qubalee/blob/main/images/metgscale.png?raw=true" alt="Geologic time scale illustration" />
+      </div>
+    </div>
+
+    <script>
+      const form = document.getElementById("notifyForm");
+      const msg = document.getElementById("msg");
+      const emailEl = document.getElementById("email");
+
+      form.addEventListener("submit", function(e) {
+        e.preventDefault();
+        const email = emailEl.value.trim();
+        if(!email){
+          msg.textContent = "Please enter a valid email.";
+          msg.classList.add("error");
+          msg.style.display = "block";
+          msg.focus();
+          return;
+        }
+
+        // Optimistic success for better UX
+        msg.textContent = "Thanks! Your email has been recorded.";
+        msg.classList.remove("error");
+        msg.style.display = "block";
+        const submitBtn = form.querySelector('button[type="submit"]');
+        submitBtn.disabled = true; submitBtn.textContent = 'Added';
+
+        const scriptURL = "https://script.google.com/macros/s/AKfycbwLCUOChjI0_BuAJYkLbzMPH9orC-Td3vqzd100vRG7b8WTubfKu1nb0OB-jy9bE5sv/exec";
+        fetch(scriptURL, {
+          method: 'POST',
+          mode: 'no-cors',
+          body: new URLSearchParams({ email, ua: navigator.userAgent, ref: document.referrer })
+        })
+        .then(() => {
+          emailEl.value = ""; // keep success visible
+        })
+        .catch(() => {
+          msg.textContent = "Error saving to waitlist. Please email contact@megtscale.com";
+          msg.classList.add("error");
+          submitBtn.disabled = false; submitBtn.textContent = 'Notify me';
+        });
+      });
+    </script>
+  </body>
+</html>
