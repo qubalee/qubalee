@@ -16,6 +16,7 @@ ____
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Geosciences — Transforming Geological Data into Knowledge](https://qubalee.github.io/posts/2025/10/digitalgeosciences/)
 - [1.20 Laser-Induced Breakdown Spectroscopy for Critical Minerals](https://www.youtube.com/watch?v=Ag68UjYEH7w)
 - [#virtual #field #experience #geoscience #education](https://www.youtube.com/shorts/WdxSOYa4QbI)
 - [#Automated #mineralogy #2d and #3d](https://www.youtube.com/shorts/EI11rPNi9fQ)
@@ -35,7 +36,6 @@ ____
 - [A Portable Coring Machine: Key Tools for Geological Fieldwork](https://qubalee.github.io/posts/2025/04/Portable-Coring-Machine/)
 - [Optimizing Research Efficiency with PDF Reader and Journal Ranking Tool Extensions](https://qubalee.github.io/posts/2025/04/Google-PDF-Readerand-ExCITATION/)
 - [Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata](https://qubalee.github.io/posts/2025/04/quantifying-bioturbation/)
-- [Open Geosciences](https://qubalee.github.io/posts/2025/04/open-geosciences/)
 <!-- BLOG-POST-LIST:END -->
 
 
