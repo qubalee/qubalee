@@ -16,6 +16,7 @@ ____
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Geosciences — Transforming Geological Data into Knowledge](https://qubalee.github.io/posts/2025/10/digitalgeosciences/)
 - [1.20 Laser-Induced Breakdown Spectroscopy for Critical Minerals](https://www.youtube.com/watch?v=Ag68UjYEH7w)
 - [#virtual #field #experience #geoscience #education](https://www.youtube.com/shorts/WdxSOYa4QbI)
 - [#Automated #mineralogy #2d and #3d](https://www.youtube.com/shorts/EI11rPNi9fQ)
@@ -31,6 +32,10 @@ ____
 - [1.9 Unconventional Shale: Insights from Geochemistry, Maturity, and Reservoir Quality | #notebooklm](https://www.youtube.com/watch?v=bu8dNJy37i4)
 - [1.8 Management of Geological Data: Local and Cloud-Based | via #google  #notebooklm](https://www.youtube.com/watch?v=zOAFw0pYxCs)
 - [1.7 Bioturbation Impact on Reservoir and Aquifer Properties | via #google  #notebooklm](https://www.youtube.com/watch?v=37oclvMbGt0)
+- [Management of Geological Data: Local and Cloud-Based](https://qubalee.github.io/posts/2025/05/data-repository-platforms/)
+- [A Portable Coring Machine: Key Tools for Geological Fieldwork](https://qubalee.github.io/posts/2025/04/Portable-Coring-Machine/)
+- [Optimizing Research Efficiency with PDF Reader and Journal Ranking Tool Extensions](https://qubalee.github.io/posts/2025/04/Google-PDF-Readerand-ExCITATION/)
+- [Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata](https://qubalee.github.io/posts/2025/04/quantifying-bioturbation/)
 <!-- BLOG-POST-LIST:END -->
 
 
