@@ -47,7 +47,7 @@ ___
 [![LinkedIn](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/in.png)](https://www.linkedin.com/sharing/share-offsite/?url=https://qubalee.com/posts/2025/04/open-geosciences)
 - or **copy and share**:
 ```copy
-https://qubalee.com/posts/2025/04/open-geosciences
+https://digitalgeosciences.com/opengeo/
 ```
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=qubalee.qubalee)](https://visitor-badge.laobi.icu/badge?page_id=qubalee.visitor-badge) 
 
