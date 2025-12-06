@@ -7,10 +7,7 @@ ___
 
 [![Current research](https://raw.githubusercontent.com/qubalee/qubalee/796f3fbbc4acf0cc05b0f408e8360f620e76deb8/images/research-interests.svg)](https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee)
 
-- ⛏️ **Field-based geology and mineral exploration.**
-- 🌍 **Interdisciplinary approaches to critical mineral resources.**
-- 🏔️ **Sedimentary processes and their impacts on critical mineral distributions.**
-- 💎 **Characteristics of sediment-hosted minerals.**
+Currently, my work focuses on assessing reservoir quality, enhancing CO₂ storage efficiency, and identifying critical minerals within sedimentary basins to support sustainable resource development.
 ____
 [![Latest updates](https://raw.githubusercontent.com/qubalee/qubalee/9c32fec718e92e7430f542d5f74a9059ca3208a9/images/ALQUBALEE-Notes.svg)](https://qubalee.com) [![Sponsor qubalee](https://raw.githubusercontent.com/qubalee/qubalee/2b952e9d30fed63703c69ec8454f772f1a91cb54/images/icons/sponsor.svg)](https://github.com/sponsors/qubalee)
 
