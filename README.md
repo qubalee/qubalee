@@ -13,6 +13,7 @@ ____
 
 
 <!-- BLOG-POST-LIST:START -->
+- [GeoArabia Dashboard: Gaining Insights into the Geosciences of Arabia](https://qubalee.github.io/posts/2025/12/geoarabia-dashboard/)
 - [OpenGeo: The Open-Source Hub for Geoscientists](https://qubalee.github.io/posts/2025/11/opengeo/)
 - [Digital Geosciences — Transforming Geological Data into Knowledge](https://qubalee.github.io/posts/2025/10/digitalgeosciences/)
 - [1.20 Laser-Induced Breakdown Spectroscopy for Critical Minerals](https://www.youtube.com/watch?v=Ag68UjYEH7w)
@@ -32,7 +33,6 @@ ____
 - [1.7 Bioturbation Impact on Reservoir and Aquifer Properties | via #google  #notebooklm](https://www.youtube.com/watch?v=37oclvMbGt0)
 - [Management of Geological Data: Local and Cloud-Based](https://qubalee.github.io/posts/2025/05/data-repository-platforms/)
 - [A Portable Coring Machine: Key Tools for Geological Fieldwork](https://qubalee.github.io/posts/2025/04/Portable-Coring-Machine/)
-- [Optimizing Research Efficiency with PDF Reader and Journal Ranking Tool Extensions](https://qubalee.github.io/posts/2025/04/Google-PDF-Readerand-ExCITATION/)
 <!-- BLOG-POST-LIST:END -->
 
 
