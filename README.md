@@ -13,11 +13,18 @@ ____
 
 
 <!-- BLOG-POST-LIST:START -->
-- [GeoArabia Dashboard: Gaining Insights into the Geosciences of Arabia](https://qubalee.github.io/posts/2025/12/geoarabia-dashboard/)
-- [OpenGeo: The Open-Source Hub for Geoscientists](https://qubalee.github.io/posts/2025/11/opengeo/)
-- [Digital Geosciences — Transforming Geological Data into Knowledge](https://qubalee.github.io/posts/2025/10/digitalgeosciences/)
-- [Management of Geological Data: Local and Cloud-Based](https://qubalee.github.io/posts/2025/05/data-repository-platforms/)
-- [A Portable Coring Machine: Key Tools for Geological Fieldwork](https://qubalee.github.io/posts/2025/04/Portable-Coring-Machine/)
+- [GeoArabia Dashboard: Gaining Insights into the Geosciences of Arabia](https://qubalee.com/posts/2025/12/geoarabia-dashboard/)
+- [OpenGeo: The Open-Source Hub for Geoscientists](https://qubalee.com/posts/2025/11/opengeo/)
+- [Digital Geosciences — Transforming Geological Data into Knowledge](https://qubalee.com/posts/2025/10/digitalgeosciences/)
+- [Management of Geological Data: Local and Cloud-Based](https://qubalee.com/posts/2025/05/data-repository-platforms/)
+- [A Portable Coring Machine: Key Tools for Geological Fieldwork](https://qubalee.com/posts/2025/04/Portable-Coring-Machine/)
+- [Optimizing Research Efficiency with PDF Reader and Journal Ranking Tool Extensions](https://qubalee.com/posts/2025/04/Google-PDF-Readerand-ExCITATION/)
+- [Open Geosciences](https://qubalee.com/posts/2025/04/open-geosciences/)
+- [Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata](https://qubalee.com/posts/2025/04/quantifying-bioturbation/)
+- [WIIP: An Approach for Leveraging Geological Data Heterogeneity through Customization of Open-Source Software](https://qubalee.com/posts/2025/04/wiip/)
+- [Bioturbation Impact on Reservoir and Aquifer Properties](https://qubalee.com/posts/2025/04/bioturbation/)
+- [Upper Ordovician Glaciogenic Deposits, Saudi Arabia](https://qubalee.com/posts/2025/04/UOGD/)
+- [Hello World: Introducing ALQUBALEE Notes](https://qubalee.com/posts/2025/04/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 
